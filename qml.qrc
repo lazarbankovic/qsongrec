@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SocketObserver.qml</file>
+        <file>MarqueeText.qml</file>
+        <file>giphy.gif</file>
+        <file>InfoText.qml</file>
+    </qresource>
+</RCC>
